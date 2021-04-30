@@ -1,0 +1,8 @@
+.contacts {
+    display: flex;
+    color: #424242;
+}
+.number {
+    justify-content: flex-end;
+    color: blue ;
+}
